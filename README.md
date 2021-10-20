@@ -1,4 +1,5 @@
 # gulp-package
-clone package
-run npm i
-enjoy
+## Project setup
+```
+npm install
+```
